@@ -107,6 +107,7 @@ SWITCH(
     [Profit Margin %] <= 1.50, "100.01-150%",
     "150.01-200%"
 )
+```
 
 ### Getting Started
 1. Clone the repository:
