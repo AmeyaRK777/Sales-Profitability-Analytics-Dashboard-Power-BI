@@ -92,8 +92,6 @@ Total Sales = SUM(Orders[Sales])
 3. **Double-Down on High Performers:** Allocate marketing spend toward high-margin growth drivers in the Consumer segment, prioritizing Copiers, Phones, and Technology categories.
 
 
-```
-
 ### Getting Started
 1. Clone the repository:
    ```bash
