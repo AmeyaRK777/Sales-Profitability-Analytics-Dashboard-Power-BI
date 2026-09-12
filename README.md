@@ -98,7 +98,8 @@ Total Sales = SUM(Orders[Sales])
    git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
 
 
-<img width="855" height="498" alt="image" src="https://github.com/user-attachments/assets/b5851c8b-0d93-472b-84a3-eeb8746d1412" />
+<img width="929" height="497" alt="Screenshot 2026-08-06 190921" src="https://github.com/user-attachments/assets/3536cdda-b0c5-4db8-8c6a-133366e5c4fe" />
+
 
 <img width="855" height="498" alt="image" src="https://github.com/user-attachments/assets/257c1839-cb1a-4e55-a627-7a0077aa1057" />
 
